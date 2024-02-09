@@ -1,0 +1,142 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About"
+  },
+  "footer": {
+    "text": "all rights reserved 2024"
+  },
+  "page": {
+    "home": {
+      "title": "Welcome to NextJs i18n",
+      "description": "Internationalization in NextJs 13 App router"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "This is the about page"
+    }
+    
+  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Artificial Intelligence",
+      "body": "Artificial intelligence (AI) is rapidly changing the world as we know it. From self-driving cars to personalized medicine, AI is poised to revolutionize every aspect of our lives.",
+      "image": "https://via.placeholder.com/600x400?text=AI"
+    },
+    {
+      "id": 2,
+      "title": "Climate Change and Its Impacts",
+      "body": "Climate change is one of the most pressing issues of our time. Rising global temperatures, melting ice caps, and extreme weather events are all signs of the growing crisis.",
+      "image": "https://via.placeholder.com/600x400?text=Climate+Change"
+    },
+    {
+      "id": 3,
+      "title": "The Power of Renewable Energy",
+      "body": "Renewable energy sources such as solar and wind power are becoming increasingly important in the fight against climate change. By transitioning to clean energy, we can reduce our reliance on fossil fuels and mitigate the impacts of climate change.",
+      "image": "https://via.placeholder.com/600x400?text=Renewable+Energy"
+    },
+    {
+      "id": 4,
+      "title": "The Importance of Mental Health Awareness",
+      "body": "Mental health is just as important as physical health, yet it is often overlooked. By raising awareness and reducing stigma, we can ensure that everyone has access to the support and resources they need to thrive.",
+      "image": "https://via.placeholder.com/600x400?text=Mental+Health"
+    },
+    {
+      "id": 5,
+      "title": "The Rise of Remote Work",
+      "body": "Remote work has become increasingly popular in recent years, allowing employees to work from anywhere in the world. This trend has been accelerated by the COVID-19 pandemic, leading many companies to adopt remote work policies permanently.",
+      "image": "https://via.placeholder.com/600x400?text=Remote+Work"
+    },
+    {
+      "id": 6,
+      "title": "The Role of Technology in Education",
+      "body": "Technology has the potential to transform education, making learning more accessible and engaging for students of all ages. From online courses to interactive learning tools, technology is reshaping the way we teach and learn.",
+      "image": "https://via.placeholder.com/600x400?text=Technology+in+Education"
+    },
+    {
+      "id": 7,
+      "title": "The Future of Space Exploration",
+      "body": "Space exploration is entering a new era, with plans to return to the moon and send humans to Mars. Advances in technology and international collaboration are driving progress in this exciting field.",
+      "image": "https://via.placeholder.com/600x400?text=Space+Exploration"
+    },
+    {
+      "id": 8,
+      "title": "The Impact of Social Media on Society",
+      "body": "Social media has revolutionized the way we communicate and connect with others, but it also has its downsides. From cyberbullying to fake news, social media presents challenges that society must address.",
+      "image": "https://via.placeholder.com/600x400?text=Social+Media"
+    },
+    {
+      "id": 9,
+      "title": "The Importance of Diversity and Inclusion",
+      "body": "Diversity and inclusion are essential for building a more equitable and just society. By embracing diversity and creating inclusive spaces, we can ensure that everyone has the opportunity to succeed.",
+      "image": "https://via.placeholder.com/600x400?text=Diversity+and+Inclusion"
+    },
+    {
+      "id": 10,
+      "title": "The Future of Healthcare",
+      "body": "Advances in technology are revolutionizing healthcare, from personalized medicine to telemedicine. By harnessing the power of data and innovation, we can improve health outcomes for people around the world.",
+      "image": "https://via.placeholder.com/600x400?text=Healthcare"
+    },
+    {
+      "id": 11,
+      "title": "The Rise of E-commerce",
+      "body": "E-commerce has experienced explosive growth in recent years, transforming the way we shop and do business. From online marketplaces to mobile payment systems, e-commerce is reshaping the global economy.",
+      "image": "https://via.placeholder.com/600x400?text=E-commerce"
+    },
+    {
+      "id": 12,
+      "title": "The Impact of Artificial Intelligence on Jobs",
+      "body": "Artificial intelligence has the potential to automate many jobs, raising concerns about unemployment and income inequality. However, AI also creates new opportunities for innovation and job creation.",
+      "image": "https://via.placeholder.com/600x400?text=AI+Jobs"
+    },
+    {
+      "id": 13,
+      "title": "The Challenge of Cybersecurity",
+      "body": "Cybersecurity is a growing concern in our increasingly digital world. From data breaches to ransomware attacks, organizations must remain vigilant to protect against cyber threats.",
+      "image": "https://via.placeholder.com/600x400?text=Cybersecurity"
+    },
+    {
+      "id": 14,
+      "title": "The Importance of Sustainable Agriculture",
+      "body": "Sustainable agriculture is essential for feeding a growing global population while preserving the health of the planet. By adopting environmentally friendly farming practices, we can ensure food security for future generations.",
+      "image": "https://via.placeholder.com/600x400?text=Sustainable+Agriculture"
+    },
+    {
+      "id": 15,
+      "title": "The Promise of 5G Technology",
+      "body": "5G technology has the potential to revolutionize telecommunications, enabling faster speeds and greater connectivity. From autonomous vehicles to smart cities, 5G will power the innovations of the future.",
+      "image": "https://via.placeholder.com/600x400?text=5G+Technology"
+    },
+    {
+      "id": 16,
+      "title": "The Rise of Remote Learning",
+      "body": "Remote learning has become increasingly popular, especially in response to the COVID-19 pandemic. By leveraging technology, students can access high-quality education from anywhere in the world.",
+      "image": "https://via.placeholder.com/600x400?text=Remote+Learning"
+    },
+    {
+      "id": 17,
+      "title": "The Future of Work",
+      "body": "The nature of work is evolving, with automation and artificial intelligence reshaping the labor market. From gig economy jobs to remote work opportunities, the future of work is uncertain but full of possibilities.",
+      "image": "https://via.placeholder.com/600x400?text=Future+of+Work"
+    },
+    {
+      "id": 18,
+      "title": "The Challenge of Climate Adaptation",
+      "body": "Climate change is already having profound impacts on communities around the world, from extreme weather events to sea level rise. Adaptation strategies are essential for building resilience and protecting vulnerable populations.",
+      "image": "https://via.placeholder.com/600x400?text=Climate+Adaptation"
+    },
+    {
+      "id": 19,
+      "title": "The Role of Blockchain Technology",
+      "body": "Blockchain technology has the potential to revolutionize industries ranging from finance to healthcare. By providing secure and transparent transactions, blockchain has the power to disrupt traditional business models.",
+      "image": "https://via.placeholder.com/600x400?text=Blockchain+Technology"
+    },
+    {
+      "id": 20,
+      "title": "The Promise of Renewable Energy",
+      "body": "Renewable energy sources such as solar and wind power offer a sustainable alternative to fossil fuels. By investing in clean energy infrastructure, we can combat climate change and create a more sustainable future.",
+      "image": "https://via.placeholder.com/600x400?text=Renewable+Energy"
+    }
+  ]
+}
